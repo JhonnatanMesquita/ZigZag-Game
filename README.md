@@ -1,6 +1,6 @@
 # ZigZag
 Jogo em Unity utilizando a linguagem C#
-Você pode jogar o jogo no site: http://game.jhonnatanmesquita.me/
+Você pode jogar o jogo no site: http://game.jhonnatanmesquita.com.br/
 
 # Motivação
 
